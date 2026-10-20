@@ -1,0 +1,6 @@
+{
+  "name": "ClipFlow AI - Smart 9:16 Video Clipper & Auto-Reframe",
+  "description": "Opus-Clip-style AI video clipper that turns horizontal videos into viral 9:16 vertical shorts with smart speaker tracking, split-screen podcast mode, dynamic subtitles, and direct export/publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
